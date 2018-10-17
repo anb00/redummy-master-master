@@ -1,2 +1,7 @@
-# redummy-master-master
-backup
+# redummy
+
+TODO
+
+## shortcuts
+
+- control + shift + o: Reimport
